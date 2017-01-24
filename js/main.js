@@ -1,6 +1,5 @@
 // Grabbing react from node_modules
 import React from 'react'
-
 import Footer from './footer'
 import Header from './header'
 import Form from './form'

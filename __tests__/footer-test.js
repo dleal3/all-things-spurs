@@ -21,7 +21,7 @@ describe("Footer", () => {
   it("Should have the footer container", () => {
     const footerContentContainerElement = TestUtils.findRenderedDOMComponentWithClass(
       footerComponent,
-      "footer_content_container"
+      "footer_menu_container"
     )
 
     expect(footerContentContainerElement).toBeDefined()

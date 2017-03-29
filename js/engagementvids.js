@@ -10,7 +10,7 @@ export default React.createClass({
             <iframe className="NBA_game_highlights"
                     width="560"
                     height="315"
-                    src="https://www.youtube.com/embed/VgMGcmojDcI"
+                    src="https://www.youtube.com/embed/KgsY7ggLmk4&autoplay=1&loop=1&playlist=KgsY7ggLmk4"
                     frameBorder="1"
                     allowFullScreen>
             </iframe>

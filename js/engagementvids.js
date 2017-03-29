@@ -10,8 +10,8 @@ export default React.createClass({
             <iframe width="560"
                     height="315"
                     src="https://www.youtube.com/embed/PSz4nabbXWw"
-                    frameborder="0"
-                    allowfullscreen>
+                    frameBorder="0"
+                    allowFullScreen>
             </iframe>
           </div>
           <h2 className="game_description"> SPURS GAME HIGHLIGHTS

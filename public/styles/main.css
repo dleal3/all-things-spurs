@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+.main_image {
+  background-image: url(http://simoonis.com/wp-content/uploads/2017/02/wood-floor-texture-Wood-Floor-Texture-hardwood-floor-cleaner.jpg);
+}
+
 .featured_post {
   text-align: center;
   background: #008080;

@@ -16,7 +16,7 @@ export default React.createClass({
         className="logo"/>
         <div className="div_signin">
           <h2>
-            <a href="#" className="signin">SIGN IN</a>
+            <a href="#" className="signin"></a>
           </h2>
         </div>
         <img src="http://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/spurs/Schad/img/PostgameTeams/SAS.png"

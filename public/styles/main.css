@@ -4,6 +4,7 @@
 
 body {
   background-image: url(http://simoonis.com/wp-content/uploads/2017/02/wood-floor-texture-Wood-Floor-Texture-hardwood-floor-cleaner.jpg);
+  background-size: cover;
 }
 
 .featured_post {
@@ -184,7 +185,7 @@ i {
   margin: 0px;
 }
 .blogPostForm {
-  background-color: lightgrey;
+  background-color: tan;
   width: 75%;
   margin-left: auto;
   margin-right: auto;
@@ -311,8 +312,10 @@ i {
   margin-bottom: 20px;
 }
 .clickhere_button{
+  background-color: transparent;
   border-radius: 25px;
   display: inline-block;
+  display:hover color: #008080;
   height: 60px;
   width: 300px;
 }

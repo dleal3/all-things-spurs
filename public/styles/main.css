@@ -122,9 +122,9 @@ i {
 }
 
 .video_section {
-  background-color: transparent;
+  background-color: black;
   font-size: 12px;
-  margin-top: 10px;
+  margin-top: -1px;
 }
 
 .NBA_highlights_video {
